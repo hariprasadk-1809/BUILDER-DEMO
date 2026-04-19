@@ -51,7 +51,7 @@ window.BC_CONFIG = {
    * 2. HERO SECTION
    * ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ */
   hero: {
-    headline:     ["Building Your", "Dream Home", "with Precision", "& Trust"],
+    headline:     ["Building Your", "Dream ", "with Precision", "& Trust"],
     goldLine:     1,   // which line (0-based) gets the gold gradient
     subtext:      "We craft exceptional residential & commercial spaces that families cherish for generations. Your vision, our expertise — built to last a lifetime.",
     badges: [
