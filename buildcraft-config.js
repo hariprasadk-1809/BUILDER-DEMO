@@ -40,7 +40,7 @@ window.BC_CONFIG = {
    * 2. HERO SECTION
    * ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ */
   hero: {
-    headline:  ["Building Your", "Dream House", "with Precision", "& Trust"],
+    headline:  ["Building Your", "Dream Home", "with Precision", "& Trust"],
     goldLine:  1,
     subtext:   "We craft exceptional residential & commercial spaces that families cherish for generations. Your vision, our expertise \u2014 built to last a lifetime.",
     badges: [
